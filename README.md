@@ -2,6 +2,6 @@
 
 ## Application Example with Laravel and Test Driven Development
 
-Talk slides at [https://joind.in/event/laravelday-2019/test-driven-development-con-laravel](https://joind.in/event/laravelday-2019/test-driven-development-con-laravel)
+Talk slides at [https://github.com/robertogallea/laravelday-tdd/blob/master/tdd.pdf](https://github.com/robertogallea/laravelday-tdd/blob/master/tdd.pdf)
 
-Please upvote!
+Please upvote on [https://joind.in/event/laravelday-2019/test-driven-development-con-laravel](https://joind.in/event/laravelday-2019/test-driven-development-con-laravel)!
